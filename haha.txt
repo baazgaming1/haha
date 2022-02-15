@@ -1,0 +1,5 @@
+{
+	"ip":"ugsmp122.aternos.me",
+	"port": "44495",
+	"name": "hargun"
+}
